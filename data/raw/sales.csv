@@ -1,0 +1,8 @@
+order_id,customer_id,product,volume_ton,revenue_usd,date,origin_port,destination_port
+1,101,Soy,35,35000,2024-01-10,Santos,Shanghai
+2,102,Corn,10,10000,2024-01-11,Paranagua,Hamburg
+3,101,Wheat,20,20000,2024-01-12,Santos,Dublin
+4,103,Sugar,12,12000,2024-01-13,Rio Grande,Rotterdam
+5,104,Soy,34,34000,2024-01-14,Santos,Shanghai
+6,102,Corn,10,10000,2024-01-15,Paranagua,Hamburg
+7,105,Wheat,25,25000,2024-01-16,Itaqui,London
