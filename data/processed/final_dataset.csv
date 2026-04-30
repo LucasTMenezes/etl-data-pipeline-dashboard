@@ -1,0 +1,16 @@
+order_id,customer_id,product,volume_ton,revenue_usd,date,origin_port,destination_port,customer_name,country,region,status,year_month,price_per_ton
+1,101,Soy,35,35000,2026-01-10,Santos,Shanghai,Arrow Juice,USA,North America,delivered,2026-01,1000.00
+2,102,Corn,10,10000,2026-01-15,Paranagua,Hamburg,Berlin Natural,Germany,Europe,pending,2026-01,1000.00
+3,101,Wheat,20,20000,2026-01-20,Santos,Dublin,Arrow Juice,USA,North America,delivered,2026-01,1000.00
+4,103,Sugar,12,12000,2026-02-05,Rio Grande,Rotterdam,Soy Sun,Ireland,Europe,cancelled,2026-02,1000.00
+5,104,Soy,34,34000,2026-02-10,Santos,Shanghai,Jui Si Xian,China,Asia,delivered,2026-02,1000.00
+6,102,Corn,11,11000,2026-02-18,Paranagua,Hamburg,Berlin Natural,Germany,Europe,pending,2026-02,1000.00
+7,105,Wheat,25,25000,2026-03-02,Itaqui,London,Peter North Organic,United Kingdom,Europe,delivered,2026-03,1000.00
+8,101,Soy,40,40000,2026-03-12,Santos,Shanghai,Arrow Juice,USA,North America,delivered,2026-03,1000.00
+9,103,Sugar,15,15000,2026-03-20,Rio Grande,Rotterdam,Soy Sun,Ireland,Europe,pending,2026-03,1000.00
+10,104,Soy,30,30000,2026-04-05,Santos,Shanghai,Jui Si Xian,China,Asia,delivered,2026-04,1000.00
+11,105,Wheat,22,22000,2026-04-12,Itaqui,London,Peter North Organic,United Kingdom,Europe,delivered,2026-04,1000.00
+12,102,Corn,13,13000,2026-04-18,Paranagua,Hamburg,Berlin Natural,Germany,Europe,delivered,2026-04,1000.00
+13,101,Soy,38,38000,2026-04-03,Santos,Shanghai,Arrow Juice,USA,North America,pending,2026-04,1000.00
+14,103,Sugar,14,14000,2026-04-10,Rio Grande,Rotterdam,Soy Sun,Ireland,Europe,pending,2026-04,1000.00
+15,104,Soy,32,32000,2026-04-18,Santos,Shanghai,Jui Si Xian,China,Asia,delivered,2026-04,1000.00
